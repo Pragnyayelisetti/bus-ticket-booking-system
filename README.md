@@ -1,4 +1,4 @@
-##Bus Ticket Booking System (Java)
+##**Bus Ticket Booking System (Java)**
 
 **Project Description**
 
